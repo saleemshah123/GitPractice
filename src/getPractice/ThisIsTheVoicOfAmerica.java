@@ -7,6 +7,7 @@ public class ThisIsTheVoicOfAmerica {
 int a = 5;
 int b = 10;
 if (a>b) {
+	system.out.println("a is bigger");
 	
 }
 	}
